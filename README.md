@@ -11,7 +11,7 @@ This repository contains a collection of AWS-based projects showcasing various t
 **Description**:  
 This project focuses on migrating the vProfile application to the AWS cloud using the "Lift and Shift" strategy. The migration is designed to move the application from an on-premises data center to AWS with minimal changes. The goal is to provide a flexible, scalable, and cost-effective cloud-based solution using AWS services like EC2, ELB, Auto Scaling, Route 53, and S3.
 
-For more details, please see the [project guide](vProfile Application Lift and Shift to AWS Cloud/README.md).
+For more details, please see the [project guide]([vProfile Application Lift and Shift to AWS Cloud/README.md](https://github.com/Haroon-K/AWS-Projects/blob/main/vProfile%20Application%20Lift%20and%20Shift%20to%20AWS%20Cloud/README.md)).
 
 ---
 
