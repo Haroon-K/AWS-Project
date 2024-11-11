@@ -70,7 +70,3 @@ Brief description of the seventh project. This could focus on implementing a ser
 If you would like to contribute to any of these projects or suggest improvements, feel free to fork the repository and create a pull request. Contributions are welcome!
 
 ---
-
-## License
-
-This repository is licensed under the MIT License. See the [LICENSE](./LICENSE) file for more information.
